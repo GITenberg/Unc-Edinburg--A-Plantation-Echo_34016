@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/184
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Nelson_Page
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34016#Unc-Edinburg--A-Plantation-Echo
 gutenberg_issued: '2010-10-01'
 gutenberg_type: Text
 identifiers:
